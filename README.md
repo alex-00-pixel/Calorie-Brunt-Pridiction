@@ -1,21 +1,3 @@
-# Online Payment Fraud Detection Classification Project
-
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Algorithm](#algorithm)
-3. [Results](#results)
-4. [License](#license)
-
-## Introduction
-Online payment fraud poses a significant threat in today's digital landscape. This project aims to develop an effective fraud detection system using machine learning algorithms. Three primary classification algorithms, namely Logistic Regression, Decision Tree, and Random Forest have been implemented to enhance the accuracy and reliability of the system.
-
-## Algorithm
-In addition to the initial algorithms, the XGBoost algorithm has been incorporated to improve the model's predictive capabilities further.
-
-## Results
-Explore the Jupyter Notebooks within the project for comprehensive details on data preprocessing, model training, and evaluation. The notebooks provide insights into each classification algorithm's performance, accuracy, and other relevant metrics.
-
-## License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-
-Best of Luck!
+## Predictive Modeling of Calories Burned using XG Boost Regression
+In the fast-paced environment of modern life, characterized by hectic schedules and demanding work commitments, individuals often struggle to maintain a healthy lifestyle. Neglecting dietary habits and insufficient physical activity contribute to the rising issue of obesity. Recognizing the importance of staying fit, many people turn to diets and exercise, emphasizing the need for a comprehensive understanding of calories consumed and burned.
+While tracking consumed calories is relatively straightforward with information available on product labels and the internet, estimating calories burned poses a challenge due to the limited availability of accurate measurement devices. This study addresses this gap by employing a machine learning (ML) algorithm, specifically the XG Boost Regression model, to predict calories burned.
